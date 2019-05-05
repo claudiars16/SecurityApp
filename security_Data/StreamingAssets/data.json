@@ -1,0 +1,58 @@
+{
+   "allRoundData":[
+      {
+         "name":"Passwords",
+         "timeLimitInSeconds":30,
+         "pointsAddedForCorrectAnswer":10,
+         "questions":[
+            {
+               "questionText":"Cual de las dos contrasenias es mas segura?",
+               "answers":[
+                  {
+                     "answerText":"DiegoesunabuenaPersona",
+                     "isCorrect":true
+                  },
+                  {
+                     "answerText":"Diego123",
+                     "isCorrect":false
+                  }
+               ]
+            },
+            {
+               "questionText":"Cual de las dos contrasenias es mas segura?",
+               "answers":[
+                  {
+                     "answerText":"DiegoesunabuenaPersona",
+                     "isCorrect":false
+                  },
+                  {
+                     "answerText":"Diego123",
+                     "isCorrect":true
+                  }
+               ]
+            },
+            {
+               "questionText":"Cual de las dos contrasenias es menos segura?",
+               "answers":[
+                  {
+                     "answerText":"DiegoesunabuenaPersona",
+                     "isCorrect":false
+                  },
+                  {
+                     "answerText":"123456",
+                     "isCorrect":true
+                  },
+                  {
+                     "answerText":"Diego$123#",
+                     "isCorrect":false
+                  },
+                  {
+                     "answerText":"P@ssw0rd",
+                     "isCorrect":false
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
