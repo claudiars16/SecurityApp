@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/PasswordScene.unity
+- path: Assets/RegistroScene.unity
   isLoaded: 1
   isActive: 1

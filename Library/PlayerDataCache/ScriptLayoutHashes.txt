@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/Diego/Documents/SecurityAppC/security.exe
+C:/Users/claud/OneDrive/Documentos/JuegoTesis/SecurityApp/security.exe
 SceneListBegin?
 Assets/SampleScene.unity
 Assets/RegistroScene.unity
